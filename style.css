@@ -1,0 +1,63 @@
+/*Selector{
+	Property: value;
+}*/
+
+body{
+	background-color: #1D1E1F;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	/*background-image: url(backgroundimage.jpg);
+	background-size: cover;*/
+}
+h1{
+	text-align: center;
+	color: #B6C3C6;
+	border: 30px solid rgba(53, 84, 91, 1);
+
+}
+li{
+	text-align: center;
+	list-style: none;
+	color: #B6C3C6;
+	cursor: pointer;
+	display: inline-block;
+	padding:  10px 350px 20px 30px;
+
+}
+
+p{
+	margin-left: 20px;
+	margin-right: 200px;
+	font-size: 200%;
+	color: #B6C3C6;
+	line-height: 30px;
+	font-family: 'Estonia', cursive;
+	text-align: justify;
+
+}
+img {
+  	float: left;
+  	margin-left: 200px;
+ 	margin-right: 20px;
+  	border: 20px solid rgba(106, 106, 113, 1);
+	transition: all 1s ;
+}
+img:hover{
+	transform: scale(1.1);
+	}
+footer {
+	margin-top: 200px;
+	clear: both;
+}
+
+.p1{
+	color: #B6C3C6;
+}
+a{
+	color: #B6C3C6;
+}
+
+#div1{
+  background-color: rgba(53, 84, 91, 1);
+}
